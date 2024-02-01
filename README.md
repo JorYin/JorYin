@@ -7,10 +7,9 @@
 ### 💬 About me
 
 - I enjoy learning new things
-- Playing games is always a blast
 - Staying healthy is important
 - Reading is a great pastime
-- Invest in yourself
+- Average TFT and Val player
 
 
 ## ⚙️ Languages and Tools
