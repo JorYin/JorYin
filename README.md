@@ -19,7 +19,5 @@
   
 ## 📊 Stats
 
-<div style="text-align: center;">
-    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=JorYin&show_icons=true&theme=dracula" />
-</div>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=JorYin&show_icons=true&theme=dracula" />
 
