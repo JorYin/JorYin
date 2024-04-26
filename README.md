@@ -6,7 +6,7 @@
 
 ### 💬 About me
 
-- I enjoy learning new things
+Currently a CS student @ Boston University. I like to code on my free time learning new technologies. Currently building ScreenWise my own personal project and plan to build many more to come!
 
 
 ## ⚙️ Languages and Tools
