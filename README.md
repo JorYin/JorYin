@@ -26,6 +26,6 @@ I am currently a CS student at Boston University and I love to play games, spend
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorYin&show_icons=true&theme=dracula" width="450">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JorYin&theme=dracula&hide_border=false" width="470">
+  <img src="https://github-readme-stats.vercel.app/api?username=JorYin&show_icons=true&theme=dracula" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JorYin&theme=dracula&hide_border=false" width="50%">
 </p>
