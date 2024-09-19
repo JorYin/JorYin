@@ -22,10 +22,3 @@ I am currently a CS student at Boston University and I love to play games, spend
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
-  
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorYin&show_icons=true&theme=dracula" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JorYin&theme=dracula&hide_border=false" width="50%">
-</p>
