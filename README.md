@@ -1,6 +1,10 @@
 <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Jordan Yin</h1>
 
-I am currently a CS student at Boston University and I love to play games, spend time with friends, and code on my free time!
+Hey, I am Jordan, a student pursuing computer science at Boston University!
+
+I am interested in software engineering, web development, mobile apps, and game development! I have a relentless passion for acquiring new skills and a genuine love for tackling challenges head-on.
+
+Outside of coding, you'll find me at the gym, sketching ideas, enjoying time with friends, or filming videos!
 
 ## ⚙️ Technologies 
 
